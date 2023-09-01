@@ -19,7 +19,7 @@
   "dependencies": {
     "dotenv": "^10.0.0",
     "mocha": "^9.0.0",
-    "mongodb": "^3.6.9",
+    "mongodb": "^3.6.10",
     "nock": "^13.1.0"
   },
   "devDependencies": {},
